@@ -6,8 +6,11 @@ This is a cross platform web server developed in pure C language, which supports
 
 # Compiling method under Linux
 cd src
+
 make
+
 cp test.so ./web2/
+
 
 # Compiling method under Windows
 
